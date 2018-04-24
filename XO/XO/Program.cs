@@ -12,13 +12,19 @@ namespace XO
         {
             X_O xo = new X_O();
             ConsoleKey key;
+            char win;
             do
             {
                 Console.Clear();
                 xo.Print();
+                xo.GetWinner();
                 xo.SetCursor();
                 key = Console.ReadKey().Key;
                 xo.Move(key);
+                win = xo.GetWinner();
+                if (win != ' ')
+                    xo.SaveToFile(win);
+                //SaveToFile(win);
             } while (key != ConsoleKey.Escape);
         }
     }
