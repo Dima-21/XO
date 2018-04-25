@@ -14,6 +14,7 @@ namespace XO
         Position cursorpos = new Position { X = 1, Y = 1 };
         char[] xo = new char[]{ 'X', 'O' };
         int focus_xo;
+        Stats stats = new Stats();
         public X_O()
         {
             focus_xo = 0;
@@ -80,6 +81,20 @@ namespace XO
             
         }
 
+        public void NewGame()
+        {
+            focus_xo = 0;
+            pos.X = pos.Y = 0;
+            cursorpos.X = cursorpos.Y = 1;
+            for (int i = 0; i < 3; i++)
+            {
+                for (int y = 0; y < 3; y++)
+                {
+                    symbol[i, y] = ' ';
+                }
+            }
+
+        }
         public void Print()
         {
             Console.WriteLine($@"
@@ -90,27 +105,54 @@ namespace XO
   {symbol[2, 0]}| {symbol[2, 1]} |{symbol[2, 2]}
                                     ");
         }
+        public void PrintStats()
+        {
+            stats.PrintStats();
+        }
 
         public void SetCursor()
         {
             Console.SetCursorPosition(cursorpos.X, cursorpos.Y);
         }
 
-        public char GetWinner()
+        public bool isWinner()
         {
             if (isWinX())
-                return 'X';
-            else if (isWinO())
-                return 'O';
-            else if (isDH())
-                return '-';
-            return ' ';
+            {
+                stats.winX++;
+                Console.WriteLine("Выиграл Х");
+                return true;
+            }
+            if (isWinO())
+            {
+                stats.winO++;
+                Console.WriteLine("Выиграл O");
+                return true;
+            }
+            if (isDH())
+            {
+                stats.DH++;
+                Console.WriteLine("Ничья");
+                return true;
+            }
+            return false;
         }
+       
+
+        public void Save()
+        {
+            stats.SaveToFile(symbol);
+        }
+        public void Load()
+        {
+            symbol = stats.LoadFromFile();
+        }
+
         private bool isWinX()
         {
-            if (String.Join("", symbol[pos.X, 0], symbol[pos.X, 1], symbol[pos.X, 2]) == "XXX" || 
+            if (String.Join("", symbol[pos.X, 0], symbol[pos.X, 1], symbol[pos.X, 2]) == "XXX" ||
                 String.Join("", symbol[0, pos.Y], symbol[1, pos.Y], symbol[2, pos.Y]) == "XXX" ||
-                String.Join("", symbol[0, 0], symbol[1, 1], symbol[2, 2]) == "XXX" || 
+                String.Join("", symbol[0, 0], symbol[1, 1], symbol[2, 2]) == "XXX" ||
                 String.Join("", symbol[0, 2], symbol[1, 1], symbol[2, 0]) == "XXX")
             {
                 return true;

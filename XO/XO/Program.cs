@@ -11,21 +11,48 @@ namespace XO
         static void Main(string[] args)
         {
             X_O xo = new X_O();
+            xo.Load();
             ConsoleKey key;
-            char win;
-            do
+            Console.WriteLine("1. Продолжить");
+            Console.WriteLine("2. Новая игра");
+            Console.WriteLine("3. Статистика игр");
+            key = Console.ReadKey().Key;
+            if (key == ConsoleKey.NumPad1)
+            { 
+                do
+                {
+                    Console.Clear();
+                    xo.Print();
+                    if (xo.isWinner())
+                    {
+                        xo.NewGame();
+                        Console.WriteLine($"Для продолжения нажмите любую клавишу...{Console.ReadKey()}");
+                    }
+                    xo.SetCursor();
+                    key = Console.ReadKey().Key;
+                    xo.Move(key);
+                } while (key != ConsoleKey.Escape);
+            }
+            else if (key == ConsoleKey.NumPad2)
+            {
+                xo.NewGame();
+                do
+                {
+                    Console.Clear();
+                    xo.Print();
+                    if (xo.isWinner())
+                        xo.NewGame();
+                    xo.SetCursor();
+                    key = Console.ReadKey().Key;
+                    xo.Move(key);
+                } while (key != ConsoleKey.Escape);
+            }
+            else if (key == ConsoleKey.NumPad3)
             {
                 Console.Clear();
-                xo.Print();
-                xo.GetWinner();
-                xo.SetCursor();
-                key = Console.ReadKey().Key;
-                xo.Move(key);
-                win = xo.GetWinner();
-                if (win != ' ')
-                    xo.SaveToFile(win);
-                //SaveToFile(win);
-            } while (key != ConsoleKey.Escape);
+                xo.PrintStats();
+            }
+            xo.Save();
         }
     }
 }
