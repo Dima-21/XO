@@ -1,0 +1,942 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<report>
+  <location city="Киев [Украина;Украина]">
+    <interesting>
+      <url description="прогноз">https://www.pogoda.com/kiev.htm</url>
+    </interesting>
+    <day value="20180426" name="четверг">
+      <symbol value="5" desc="Переменная облачность с небольшим дождем" value2="5" desc2="Переменная облачность с небольшим дождем"/>
+      <tempmin value="12" unit="°C"/>
+      <tempmax value="21" unit="°C"/>
+      <wind value="24" unit="km/h" symbol="15" symbolB="55"/>
+      <wind-gusts value="49" unit="km/h"/>
+      <rain value="1.3" unit="mm"/>
+      <humidity value="57"/>
+      <pressure value="1010" unit="mb"/>
+      <snowline value="2300" unit="m"/>
+      <sun in="05:42" mid="12:55" out="20:08"/>
+      <moon in="15:49" out="04:35" lumi="85.19%" desc="Прибывающая, 85.19% Освещенность" symbol="10"/>
+      <local_info local_time="14:54" offset="3"/>
+      <hour value="01:00">
+        <temp value="16" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="20" unit="km/h" dir="SW" symbol="14" symbolB="46"/>
+        <wind-gusts value="34" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="58"/>
+        <pressure value="1007" unit="mb"/>
+        <clouds value="46%"/>
+        <snowline value="2800" unit="m"/>
+        <windchill value="16" unit="°C"/>
+      </hour>
+      <hour value="02:00">
+        <temp value="16" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="21" unit="km/h" dir="SW" symbol="14" symbolB="46"/>
+        <wind-gusts value="36" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="59"/>
+        <pressure value="1007" unit="mb"/>
+        <clouds value="36%"/>
+        <snowline value="2800" unit="m"/>
+        <windchill value="16" unit="°C"/>
+      </hour>
+      <hour value="03:00">
+        <temp value="16" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="21" unit="km/h" dir="SW" symbol="14" symbolB="46"/>
+        <wind-gusts value="38" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="62"/>
+        <pressure value="1006" unit="mb"/>
+        <clouds value="27%"/>
+        <snowline value="2800" unit="m"/>
+        <windchill value="16" unit="°C"/>
+      </hour>
+      <hour value="04:00">
+        <temp value="13" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="14" unit="km/h" dir="SW" symbol="14" symbolB="46"/>
+        <wind-gusts value="34" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="69"/>
+        <pressure value="1006" unit="mb"/>
+        <clouds value="47%"/>
+        <snowline value="2900" unit="m"/>
+        <windchill value="13" unit="°C"/>
+      </hour>
+      <hour value="05:00">
+        <temp value="14" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="15" unit="km/h" dir="SW" symbol="14" symbolB="46"/>
+        <wind-gusts value="35" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="68"/>
+        <pressure value="1006" unit="mb"/>
+        <clouds value="42%"/>
+        <snowline value="2800" unit="m"/>
+        <windchill value="14" unit="°C"/>
+      </hour>
+      <hour value="06:00">
+        <temp value="15" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="16" unit="km/h" dir="W" symbol="15" symbolB="47"/>
+        <wind-gusts value="36" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="67"/>
+        <pressure value="1007" unit="mb"/>
+        <clouds value="37%"/>
+        <snowline value="2800" unit="m"/>
+        <windchill value="15" unit="°C"/>
+      </hour>
+      <hour value="07:00">
+        <temp value="16" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="17" unit="km/h" dir="W" symbol="15" symbolB="47"/>
+        <wind-gusts value="37" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="66"/>
+        <pressure value="1007" unit="mb"/>
+        <clouds value="31%"/>
+        <snowline value="2700" unit="m"/>
+        <windchill value="16" unit="°C"/>
+      </hour>
+      <hour value="08:00">
+        <temp value="17" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="19" unit="km/h" dir="W" symbol="15" symbolB="55"/>
+        <wind-gusts value="39" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="65"/>
+        <pressure value="1008" unit="mb"/>
+        <clouds value="26%"/>
+        <snowline value="2700" unit="m"/>
+        <windchill value="17" unit="°C"/>
+      </hour>
+      <hour value="09:00">
+        <temp value="18" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="21" unit="km/h" dir="W" symbol="15" symbolB="55"/>
+        <wind-gusts value="40" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="64"/>
+        <pressure value="1008" unit="mb"/>
+        <clouds value="21%"/>
+        <snowline value="2700" unit="m"/>
+        <windchill value="18" unit="°C"/>
+      </hour>
+      <hour value="10:00">
+        <temp value="19" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="22" unit="km/h" dir="W" symbol="15" symbolB="55"/>
+        <wind-gusts value="43" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="58"/>
+        <pressure value="1009" unit="mb"/>
+        <clouds value="18%"/>
+        <snowline value="2600" unit="m"/>
+        <windchill value="19" unit="°C"/>
+      </hour>
+      <hour value="11:00">
+        <temp value="20" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="23" unit="km/h" dir="W" symbol="15" symbolB="55"/>
+        <wind-gusts value="46" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="52"/>
+        <pressure value="1009" unit="mb"/>
+        <clouds value="15%"/>
+        <snowline value="2600" unit="m"/>
+        <windchill value="20" unit="°C"/>
+      </hour>
+      <hour value="12:00">
+        <temp value="20" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="24" unit="km/h" dir="W" symbol="15" symbolB="55"/>
+        <wind-gusts value="48" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="47"/>
+        <pressure value="1010" unit="mb"/>
+        <clouds value="11%"/>
+        <snowline value="2500" unit="m"/>
+        <windchill value="20" unit="°C"/>
+      </hour>
+      <hour value="13:00">
+        <temp value="20" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="23" unit="km/h" dir="W" symbol="15" symbolB="55"/>
+        <wind-gusts value="48" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="44"/>
+        <pressure value="1010" unit="mb"/>
+        <clouds value="12%"/>
+        <snowline value="2500" unit="m"/>
+        <windchill value="20" unit="°C"/>
+      </hour>
+      <hour value="14:00">
+        <temp value="21" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="22" unit="km/h" dir="W" symbol="15" symbolB="55"/>
+        <wind-gusts value="48" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="42"/>
+        <pressure value="1010" unit="mb"/>
+        <clouds value="14%"/>
+        <snowline value="2400" unit="m"/>
+        <windchill value="21" unit="°C"/>
+      </hour>
+      <hour value="15:00">
+        <temp value="20" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="21" unit="km/h" dir="W" symbol="15" symbolB="55"/>
+        <wind-gusts value="46" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="41"/>
+        <pressure value="1010" unit="mb"/>
+        <clouds value="15%"/>
+        <snowline value="2400" unit="m"/>
+        <windchill value="20" unit="°C"/>
+      </hour>
+      <hour value="16:00">
+        <temp value="20" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="19" unit="km/h" dir="NW" symbol="16" symbolB="56"/>
+        <wind-gusts value="45" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="42"/>
+        <pressure value="1011" unit="mb"/>
+        <clouds value="34%"/>
+        <snowline value="2500" unit="m"/>
+        <windchill value="20" unit="°C"/>
+      </hour>
+      <hour value="17:00">
+        <temp value="19" unit="°C"/>
+        <symbol value="3" desc="Облачно" value2="3" desc2="Облачно"/>
+        <wind value="16" unit="km/h" dir="NW" symbol="16" symbolB="56"/>
+        <wind-gusts value="43" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="44"/>
+        <pressure value="1011" unit="mb"/>
+        <clouds value="56%"/>
+        <snowline value="2600" unit="m"/>
+        <windchill value="19" unit="°C"/>
+      </hour>
+      <hour value="18:00">
+        <temp value="18" unit="°C"/>
+        <symbol value="3" desc="Облачно" value2="3" desc2="Облачно"/>
+        <wind value="14" unit="km/h" dir="NW" symbol="16" symbolB="56"/>
+        <wind-gusts value="41" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="47"/>
+        <pressure value="1011" unit="mb"/>
+        <clouds value="80%"/>
+        <snowline value="2700" unit="m"/>
+        <windchill value="18" unit="°C"/>
+      </hour>
+      <hour value="19:00">
+        <temp value="17" unit="°C"/>
+        <symbol value="6" desc="Облачно с небольшим дождем" value2="6" desc2="Облачно с небольшим дождем"/>
+        <wind value="13" unit="km/h" dir="NW" symbol="16" symbolB="48"/>
+        <wind-gusts value="37" unit="km/h"/>
+        <rain value="0.2" unit="mm"/>
+        <humidity value="51"/>
+        <pressure value="1012" unit="mb"/>
+        <clouds value="84%"/>
+        <snowline value="2700" unit="m"/>
+        <windchill value="17" unit="°C"/>
+      </hour>
+      <hour value="20:00">
+        <temp value="15" unit="°C"/>
+        <symbol value="6" desc="Облачно с небольшим дождем" value2="6" desc2="Облачно с небольшим дождем"/>
+        <wind value="12" unit="km/h" dir="NW" symbol="16" symbolB="48"/>
+        <wind-gusts value="32" unit="km/h"/>
+        <rain value="0.5" unit="mm"/>
+        <humidity value="57"/>
+        <pressure value="1012" unit="mb"/>
+        <clouds value="88%"/>
+        <snowline value="2700" unit="m"/>
+        <windchill value="15" unit="°C"/>
+      </hour>
+      <hour value="21:00">
+        <temp value="14" unit="°C"/>
+        <symbol value="6" desc="Облачно с небольшим дождем" value2="6" desc2="Облачно с небольшим дождем"/>
+        <wind value="11" unit="km/h" dir="NW" symbol="16" symbolB="40"/>
+        <wind-gusts value="28" unit="km/h"/>
+        <rain value="0.2" unit="mm"/>
+        <humidity value="63"/>
+        <pressure value="1012" unit="mb"/>
+        <clouds value="92%"/>
+        <snowline value="2700" unit="m"/>
+        <windchill value="14" unit="°C"/>
+      </hour>
+      <hour value="22:00">
+        <temp value="13" unit="°C"/>
+        <symbol value="3" desc="Облачно" value2="3" desc2="Облачно"/>
+        <wind value="9" unit="km/h" dir="NW" symbol="16" symbolB="40"/>
+        <wind-gusts value="24" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="68"/>
+        <pressure value="1013" unit="mb"/>
+        <clouds value="91%"/>
+        <snowline value="2600" unit="m"/>
+        <windchill value="13" unit="°C"/>
+      </hour>
+      <hour value="23:00">
+        <temp value="13" unit="°C"/>
+        <symbol value="6" desc="Облачно с небольшим дождем" value2="6" desc2="Облачно с небольшим дождем"/>
+        <wind value="8" unit="km/h" dir="NW" symbol="16" symbolB="40"/>
+        <wind-gusts value="21" unit="km/h"/>
+        <rain value="0.2" unit="mm"/>
+        <humidity value="72"/>
+        <pressure value="1013" unit="mb"/>
+        <clouds value="91%"/>
+        <snowline value="2400" unit="m"/>
+        <windchill value="13" unit="°C"/>
+      </hour>
+      <hour value="24:00">
+        <temp value="12" unit="°C"/>
+        <symbol value="6" desc="Облачно с небольшим дождем" value2="6" desc2="Облачно с небольшим дождем"/>
+        <wind value="6" unit="km/h" dir="NW" symbol="8" symbolB="40"/>
+        <wind-gusts value="20" unit="km/h"/>
+        <rain value="0.2" unit="mm"/>
+        <humidity value="76"/>
+        <pressure value="1013" unit="mb"/>
+        <clouds value="90%"/>
+        <snowline value="2300" unit="m"/>
+        <windchill value="12" unit="°C"/>
+      </hour>
+    </day>
+    <day value="20180427" name="пятница">
+      <symbol value="10" desc="Пасмурно и дождливо" value2="10" desc2="Пасмурно и дождливо"/>
+      <tempmin value="8" unit="°C"/>
+      <tempmax value="16" unit="°C"/>
+      <wind value="22" unit="km/h" symbol="16" symbolB="56"/>
+      <wind-gusts value="44" unit="km/h"/>
+      <rain value="12.1" unit="mm"/>
+      <humidity value="77"/>
+      <pressure value="1015" unit="mb"/>
+      <snowline value="1800" unit="m"/>
+      <sun in="05:40" mid="12:54" out="20:10"/>
+      <moon in="17:02" out="05:00" lumi="92.01%" desc="Прибывающая, 92.01% Освещенность" symbol="11"/>
+      <local_info local_time="14:54" offset="3"/>
+      <hour value="01:00">
+        <temp value="12" unit="°C"/>
+        <symbol value="6" desc="Облачно с небольшим дождем" value2="6" desc2="Облачно с небольшим дождем"/>
+        <wind value="3" unit="km/h" dir="N" symbol="9" symbolB="33"/>
+        <wind-gusts value="23" unit="km/h"/>
+        <rain value="0.7" unit="mm"/>
+        <humidity value="80"/>
+        <pressure value="1013" unit="mb"/>
+        <clouds value="93%"/>
+        <snowline value="2300" unit="m"/>
+        <windchill value="12" unit="°C"/>
+      </hour>
+      <hour value="02:00">
+        <temp value="11" unit="°C"/>
+        <symbol value="6" desc="Облачно с небольшим дождем" value2="6" desc2="Облачно с небольшим дождем"/>
+        <wind value="6" unit="km/h" dir="NE" symbol="10" symbolB="34"/>
+        <wind-gusts value="28" unit="km/h"/>
+        <rain value="1.2" unit="mm"/>
+        <humidity value="83"/>
+        <pressure value="1013" unit="mb"/>
+        <clouds value="96%"/>
+        <snowline value="2300" unit="m"/>
+        <windchill value="11" unit="°C"/>
+      </hour>
+      <hour value="03:00">
+        <temp value="11" unit="°C"/>
+        <symbol value="7" desc="Пасмурно с небольшим дождем" value2="7" desc2="Пасмурно с небольшим дождем"/>
+        <wind value="9" unit="km/h" dir="E" symbol="11" symbolB="43"/>
+        <wind-gusts value="31" unit="km/h"/>
+        <rain value="1.3" unit="mm"/>
+        <humidity value="86"/>
+        <pressure value="1013" unit="mb"/>
+        <clouds value="98%"/>
+        <snowline value="2300" unit="m"/>
+        <windchill value="11" unit="°C"/>
+      </hour>
+      <hour value="04:00">
+        <temp value="11" unit="°C"/>
+        <symbol value="7" desc="Пасмурно с небольшим дождем" value2="7" desc2="Пасмурно с небольшим дождем"/>
+        <wind value="9" unit="km/h" dir="E" symbol="11" symbolB="43"/>
+        <wind-gusts value="30" unit="km/h"/>
+        <rain value="1.4" unit="mm"/>
+        <humidity value="88"/>
+        <pressure value="1013" unit="mb"/>
+        <clouds value="98%"/>
+        <snowline value="2200" unit="m"/>
+        <windchill value="11" unit="°C"/>
+      </hour>
+      <hour value="05:00">
+        <temp value="11" unit="°C"/>
+        <symbol value="7" desc="Пасмурно с небольшим дождем" value2="7" desc2="Пасмурно с небольшим дождем"/>
+        <wind value="8" unit="km/h" dir="E" symbol="11" symbolB="35"/>
+        <wind-gusts value="28" unit="km/h"/>
+        <rain value="1.5" unit="mm"/>
+        <humidity value="90"/>
+        <pressure value="1013" unit="mb"/>
+        <clouds value="96%"/>
+        <snowline value="2100" unit="m"/>
+        <windchill value="11" unit="°C"/>
+      </hour>
+      <hour value="06:00">
+        <temp value="10" unit="°C"/>
+        <symbol value="6" desc="Облачно с небольшим дождем" value2="6" desc2="Облачно с небольшим дождем"/>
+        <wind value="7" unit="km/h" dir="SE" symbol="12" symbolB="36"/>
+        <wind-gusts value="24" unit="km/h"/>
+        <rain value="1" unit="mm"/>
+        <humidity value="92"/>
+        <pressure value="1013" unit="mb"/>
+        <clouds value="95%"/>
+        <snowline value="2100" unit="m"/>
+        <windchill value="10" unit="°C"/>
+      </hour>
+      <hour value="07:00">
+        <temp value="11" unit="°C"/>
+        <symbol value="7" desc="Пасмурно с небольшим дождем" value2="7" desc2="Пасмурно с небольшим дождем"/>
+        <wind value="7" unit="km/h" dir="SE" symbol="12" symbolB="36"/>
+        <wind-gusts value="21" unit="km/h"/>
+        <rain value="0.7" unit="mm"/>
+        <humidity value="91"/>
+        <pressure value="1013" unit="mb"/>
+        <clouds value="97%"/>
+        <snowline value="2100" unit="m"/>
+        <windchill value="11" unit="°C"/>
+      </hour>
+      <hour value="08:00">
+        <temp value="11" unit="°C"/>
+        <symbol value="7" desc="Пасмурно с небольшим дождем" value2="7" desc2="Пасмурно с небольшим дождем"/>
+        <wind value="7" unit="km/h" dir="SE" symbol="4" symbolB="28"/>
+        <wind-gusts value="16" unit="km/h"/>
+        <rain value="0.9" unit="mm"/>
+        <humidity value="90"/>
+        <pressure value="1013" unit="mb"/>
+        <clouds value="98%"/>
+        <snowline value="2000" unit="m"/>
+        <windchill value="11" unit="°C"/>
+      </hour>
+      <hour value="09:00">
+        <temp value="12" unit="°C"/>
+        <symbol value="7" desc="Пасмурно с небольшим дождем" value2="7" desc2="Пасмурно с небольшим дождем"/>
+        <wind value="7" unit="km/h" dir="S" symbol="5" symbolB="29"/>
+        <wind-gusts value="14" unit="km/h"/>
+        <rain value="0.7" unit="mm"/>
+        <humidity value="89"/>
+        <pressure value="1014" unit="mb"/>
+        <clouds value="100%"/>
+        <snowline value="2000" unit="m"/>
+        <windchill value="12" unit="°C"/>
+      </hour>
+      <hour value="10:00">
+        <temp value="12" unit="°C"/>
+        <symbol value="7" desc="Пасмурно с небольшим дождем" value2="7" desc2="Пасмурно с небольшим дождем"/>
+        <wind value="7" unit="km/h" dir="S" symbol="5" symbolB="29"/>
+        <wind-gusts value="14" unit="km/h"/>
+        <rain value="0.4" unit="mm"/>
+        <humidity value="87"/>
+        <pressure value="1014" unit="mb"/>
+        <clouds value="97%"/>
+        <snowline value="1900" unit="m"/>
+        <windchill value="12" unit="°C"/>
+      </hour>
+      <hour value="11:00">
+        <temp value="13" unit="°C"/>
+        <symbol value="6" desc="Облачно с небольшим дождем" value2="6" desc2="Облачно с небольшим дождем"/>
+        <wind value="7" unit="km/h" dir="SW" symbol="6" symbolB="30"/>
+        <wind-gusts value="16" unit="km/h"/>
+        <rain value="0.2" unit="mm"/>
+        <humidity value="85"/>
+        <pressure value="1014" unit="mb"/>
+        <clouds value="94%"/>
+        <snowline value="1900" unit="m"/>
+        <windchill value="13" unit="°C"/>
+      </hour>
+      <hour value="12:00">
+        <temp value="14" unit="°C"/>
+        <symbol value="6" desc="Облачно с небольшим дождем" value2="6" desc2="Облачно с небольшим дождем"/>
+        <wind value="8" unit="km/h" dir="SW" symbol="14" symbolB="38"/>
+        <wind-gusts value="20" unit="km/h"/>
+        <rain value="0.2" unit="mm"/>
+        <humidity value="81"/>
+        <pressure value="1014" unit="mb"/>
+        <clouds value="93%"/>
+        <snowline value="1900" unit="m"/>
+        <windchill value="14" unit="°C"/>
+      </hour>
+      <hour value="13:00">
+        <temp value="14" unit="°C"/>
+        <symbol value="6" desc="Облачно с небольшим дождем" value2="6" desc2="Облачно с небольшим дождем"/>
+        <wind value="10" unit="km/h" dir="W" symbol="15" symbolB="39"/>
+        <wind-gusts value="27" unit="km/h"/>
+        <rain value="0.5" unit="mm"/>
+        <humidity value="77"/>
+        <pressure value="1014" unit="mb"/>
+        <clouds value="68%"/>
+        <snowline value="1900" unit="m"/>
+        <windchill value="14" unit="°C"/>
+      </hour>
+      <hour value="14:00">
+        <temp value="14" unit="°C"/>
+        <symbol value="5" desc="Переменная облачность с небольшим дождем" value2="5" desc2="Переменная облачность с небольшим дождем"/>
+        <wind value="16" unit="km/h" dir="NW" symbol="16" symbolB="48"/>
+        <wind-gusts value="35" unit="km/h"/>
+        <rain value="0.9" unit="mm"/>
+        <humidity value="72"/>
+        <pressure value="1014" unit="mb"/>
+        <clouds value="46%"/>
+        <snowline value="2000" unit="m"/>
+        <windchill value="14" unit="°C"/>
+      </hour>
+      <hour value="15:00">
+        <temp value="14" unit="°C"/>
+        <symbol value="5" desc="Переменная облачность с небольшим дождем" value2="5" desc2="Переменная облачность с небольшим дождем"/>
+        <wind value="21" unit="km/h" dir="NW" symbol="16" symbolB="56"/>
+        <wind-gusts value="41" unit="km/h"/>
+        <rain value="0.5" unit="mm"/>
+        <humidity value="67"/>
+        <pressure value="1014" unit="mb"/>
+        <clouds value="30%"/>
+        <snowline value="2000" unit="m"/>
+        <windchill value="14" unit="°C"/>
+      </hour>
+      <hour value="16:00">
+        <temp value="14" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="22" unit="km/h" dir="NW" symbol="16" symbolB="56"/>
+        <wind-gusts value="43" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="61"/>
+        <pressure value="1014" unit="mb"/>
+        <clouds value="29%"/>
+        <snowline value="2000" unit="m"/>
+        <windchill value="14" unit="°C"/>
+      </hour>
+      <hour value="17:00">
+        <temp value="15" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="22" unit="km/h" dir="NW" symbol="16" symbolB="56"/>
+        <wind-gusts value="44" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="56"/>
+        <pressure value="1015" unit="mb"/>
+        <clouds value="29%"/>
+        <snowline value="1900" unit="m"/>
+        <windchill value="15" unit="°C"/>
+      </hour>
+      <hour value="18:00">
+        <temp value="15" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="20" unit="km/h" dir="NW" symbol="16" symbolB="56"/>
+        <wind-gusts value="43" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="54"/>
+        <pressure value="1015" unit="mb"/>
+        <clouds value="28%"/>
+        <snowline value="1900" unit="m"/>
+        <windchill value="15" unit="°C"/>
+      </hour>
+      <hour value="19:00">
+        <temp value="14" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="17" unit="km/h" dir="NW" symbol="16" symbolB="56"/>
+        <wind-gusts value="42" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="56"/>
+        <pressure value="1016" unit="mb"/>
+        <clouds value="31%"/>
+        <snowline value="1800" unit="m"/>
+        <windchill value="14" unit="°C"/>
+      </hour>
+      <hour value="20:00">
+        <temp value="13" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="13" unit="km/h" dir="NW" symbol="16" symbolB="56"/>
+        <wind-gusts value="40" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="61"/>
+        <pressure value="1017" unit="mb"/>
+        <clouds value="34%"/>
+        <snowline value="1800" unit="m"/>
+        <windchill value="13" unit="°C"/>
+      </hour>
+      <hour value="21:00">
+        <temp value="11" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="10" unit="km/h" dir="NW" symbol="16" symbolB="48"/>
+        <wind-gusts value="37" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="67"/>
+        <pressure value="1018" unit="mb"/>
+        <clouds value="37%"/>
+        <snowline value="1800" unit="m"/>
+        <windchill value="11" unit="°C"/>
+      </hour>
+      <hour value="22:00">
+        <temp value="10" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="10" unit="km/h" dir="NW" symbol="16" symbolB="48"/>
+        <wind-gusts value="31" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="71"/>
+        <pressure value="1018" unit="mb"/>
+        <clouds value="26%"/>
+        <snowline value="1800" unit="m"/>
+        <windchill value="10" unit="°C"/>
+      </hour>
+      <hour value="23:00">
+        <temp value="10" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="10" unit="km/h" dir="NW" symbol="16" symbolB="40"/>
+        <wind-gusts value="24" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="76"/>
+        <pressure value="1018" unit="mb"/>
+        <clouds value="14%"/>
+        <snowline value="1800" unit="m"/>
+        <windchill value="8" unit="°C"/>
+      </hour>
+      <hour value="24:00">
+        <temp value="9" unit="°C"/>
+        <symbol value="1" desc="Ясная погода" value2="1" desc2="Ясная погода"/>
+        <wind value="10" unit="km/h" dir="NW" symbol="8" symbolB="32"/>
+        <wind-gusts value="19" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="80"/>
+        <pressure value="1019" unit="mb"/>
+        <clouds value="2%"/>
+        <snowline value="1800" unit="m"/>
+        <windchill value="7" unit="°C"/>
+      </hour>
+    </day>
+    <day value="20180428" name="суббота">
+      <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+      <tempmin value="5" unit="°C"/>
+      <tempmax value="20" unit="°C"/>
+      <wind value="13" unit="km/h" symbol="12" symbolB="44"/>
+      <wind-gusts value="30" unit="km/h"/>
+      <rain value="0" unit="mm"/>
+      <humidity value="61"/>
+      <pressure value="1021" unit="mb"/>
+      <snowline value="1700" unit="m"/>
+      <sun in="05:38" mid="12:54" out="20:11"/>
+      <moon in="18:14" out="05:24" lumi="96.77%" desc="Прибывающая, 96.77% Освещенность" symbol="12"/>
+      <local_info local_time="14:54" offset="3"/>
+      <hour value="03:00">
+        <temp value="7" unit="°C"/>
+        <symbol value="1" desc="Ясная погода" value2="1" desc2="Ясная погода"/>
+        <wind value="7" unit="km/h" dir="NW" symbol="8" symbolB="32"/>
+        <wind-gusts value="17" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="90"/>
+        <pressure value="1020" unit="mb"/>
+        <clouds value="0%"/>
+        <snowline value="1800" unit="m"/>
+        <windchill value="6" unit="°C"/>
+      </hour>
+      <hour value="06:00">
+        <temp value="5" unit="°C"/>
+        <symbol value="1" desc="Ясная погода" value2="1" desc2="Ясная погода"/>
+        <wind value="6" unit="km/h" dir="W" symbol="7" symbolB="31"/>
+        <wind-gusts value="12" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="93"/>
+        <pressure value="1021" unit="mb"/>
+        <clouds value="0%"/>
+        <snowline value="1900" unit="m"/>
+        <windchill value="5" unit="°C"/>
+      </hour>
+      <hour value="09:00">
+        <temp value="12" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="5" unit="km/h" dir="W" symbol="7" symbolB="31"/>
+        <wind-gusts value="16" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="65"/>
+        <pressure value="1022" unit="mb"/>
+        <clouds value="12%"/>
+        <snowline value="1800" unit="m"/>
+        <windchill value="12" unit="°C"/>
+      </hour>
+      <hour value="12:00">
+        <temp value="16" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="6" unit="km/h" dir="SW" symbol="6" symbolB="30"/>
+        <wind-gusts value="19" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="49"/>
+        <pressure value="1022" unit="mb"/>
+        <clouds value="41%"/>
+        <snowline value="1700" unit="m"/>
+        <windchill value="16" unit="°C"/>
+      </hour>
+      <hour value="15:00">
+        <temp value="18" unit="°C"/>
+        <symbol value="3" desc="Облачно" value2="3" desc2="Облачно"/>
+        <wind value="6" unit="km/h" dir="SW" symbol="14" symbolB="38"/>
+        <wind-gusts value="21" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="37"/>
+        <pressure value="1021" unit="mb"/>
+        <clouds value="83%"/>
+        <snowline value="2900" unit="m"/>
+        <windchill value="18" unit="°C"/>
+      </hour>
+      <hour value="18:00">
+        <temp value="18" unit="°C"/>
+        <symbol value="1" desc="Ясная погода" value2="1" desc2="Ясная погода"/>
+        <wind value="11" unit="km/h" dir="SW" symbol="14" symbolB="46"/>
+        <wind-gusts value="30" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="45"/>
+        <pressure value="1020" unit="mb"/>
+        <clouds value="0%"/>
+        <snowline value="2900" unit="m"/>
+        <windchill value="18" unit="°C"/>
+      </hour>
+      <hour value="21:00">
+        <temp value="13" unit="°C"/>
+        <symbol value="1" desc="Ясная погода" value2="1" desc2="Ясная погода"/>
+        <wind value="12" unit="km/h" dir="SE" symbol="12" symbolB="36"/>
+        <wind-gusts value="22" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="60"/>
+        <pressure value="1020" unit="mb"/>
+        <clouds value="0%"/>
+        <snowline value="3000" unit="m"/>
+        <windchill value="13" unit="°C"/>
+      </hour>
+      <hour value="24:00">
+        <temp value="12" unit="°C"/>
+        <symbol value="1" desc="Ясная погода" value2="1" desc2="Ясная погода"/>
+        <wind value="13" unit="km/h" dir="SE" symbol="12" symbolB="36"/>
+        <wind-gusts value="24" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="69"/>
+        <pressure value="1020" unit="mb"/>
+        <clouds value="0%"/>
+        <snowline value="3100" unit="m"/>
+        <windchill value="12" unit="°C"/>
+      </hour>
+    </day>
+    <day value="20180429" name="воскресенье">
+      <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+      <tempmin value="11" unit="°C"/>
+      <tempmax value="24" unit="°C"/>
+      <wind value="21" unit="km/h" symbol="13" symbolB="53"/>
+      <wind-gusts value="41" unit="km/h"/>
+      <rain value="0" unit="mm"/>
+      <humidity value="56"/>
+      <pressure value="1019" unit="mb"/>
+      <snowline value="3000" unit="m"/>
+      <sun in="05:36" mid="12:54" out="20:13"/>
+      <moon in="19:24" out="05:48" lumi="99.33%" desc="Полнолуние, 99.33% Освещенность" symbol="13"/>
+      <local_info local_time="14:54" offset="3"/>
+      <hour value="03:00">
+        <temp value="11" unit="°C"/>
+        <symbol value="1" desc="Ясная погода" value2="1" desc2="Ясная погода"/>
+        <wind value="13" unit="km/h" dir="S" symbol="13" symbolB="37"/>
+        <wind-gusts value="24" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="65"/>
+        <pressure value="1020" unit="mb"/>
+        <clouds value="6%"/>
+        <snowline value="3100" unit="m"/>
+        <windchill value="11" unit="°C"/>
+      </hour>
+      <hour value="06:00">
+        <temp value="11" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="13" unit="km/h" dir="S" symbol="13" symbolB="37"/>
+        <wind-gusts value="23" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="73"/>
+        <pressure value="1020" unit="mb"/>
+        <clouds value="39%"/>
+        <snowline value="3100" unit="m"/>
+        <windchill value="11" unit="°C"/>
+      </hour>
+      <hour value="09:00">
+        <temp value="17" unit="°C"/>
+        <symbol value="1" desc="Ясная погода" value2="1" desc2="Ясная погода"/>
+        <wind value="18" unit="km/h" dir="SW" symbol="14" symbolB="46"/>
+        <wind-gusts value="35" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="61"/>
+        <pressure value="1020" unit="mb"/>
+        <clouds value="8%"/>
+        <snowline value="3100" unit="m"/>
+        <windchill value="17" unit="°C"/>
+      </hour>
+      <hour value="12:00">
+        <temp value="21" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="20" unit="km/h" dir="S" symbol="13" symbolB="53"/>
+        <wind-gusts value="40" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="49"/>
+        <pressure value="1020" unit="mb"/>
+        <clouds value="20%"/>
+        <snowline value="3200" unit="m"/>
+        <windchill value="21" unit="°C"/>
+      </hour>
+      <hour value="15:00">
+        <temp value="24" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="21" unit="km/h" dir="S" symbol="13" symbolB="53"/>
+        <wind-gusts value="41" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="44"/>
+        <pressure value="1019" unit="mb"/>
+        <clouds value="35%"/>
+        <snowline value="3400" unit="m"/>
+        <windchill value="25" unit="°C"/>
+      </hour>
+      <hour value="18:00">
+        <temp value="23" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="14" unit="km/h" dir="S" symbol="13" symbolB="53"/>
+        <wind-gusts value="40" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="48"/>
+        <pressure value="1017" unit="mb"/>
+        <clouds value="36%"/>
+        <snowline value="3500" unit="m"/>
+        <windchill value="25" unit="°C"/>
+      </hour>
+      <hour value="21:00">
+        <temp value="18" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="13" unit="km/h" dir="S" symbol="13" symbolB="37"/>
+        <wind-gusts value="25" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="57"/>
+        <pressure value="1018" unit="mb"/>
+        <clouds value="27%"/>
+        <snowline value="3400" unit="m"/>
+        <windchill value="18" unit="°C"/>
+      </hour>
+      <hour value="24:00">
+        <temp value="16" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="14" unit="km/h" dir="S" symbol="13" symbolB="37"/>
+        <wind-gusts value="24" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="59"/>
+        <pressure value="1018" unit="mb"/>
+        <clouds value="21%"/>
+        <snowline value="3400" unit="m"/>
+        <windchill value="16" unit="°C"/>
+      </hour>
+    </day>
+    <day value="20180430" name="понедельник">
+      <symbol value="1" desc="Ясная погода" value2="1" desc2="Ясная погода"/>
+      <tempmin value="12" unit="°C"/>
+      <tempmax value="25" unit="°C"/>
+      <wind value="19" unit="km/h" symbol="13" symbolB="53"/>
+      <wind-gusts value="39" unit="km/h"/>
+      <rain value="0" unit="mm"/>
+      <humidity value="51"/>
+      <pressure value="1016" unit="mb"/>
+      <snowline value="3400" unit="m"/>
+      <sun in="05:35" mid="12:54" out="20:14"/>
+      <moon in="20:33" out="06:13" lumi="99.69%" desc="Полнолуние, 99.69% Освещенность" symbol="14"/>
+      <local_info local_time="14:54" offset="3"/>
+      <hour value="03:00">
+        <temp value="14" unit="°C"/>
+        <symbol value="1" desc="Ясная погода" value2="1" desc2="Ясная погода"/>
+        <wind value="13" unit="km/h" dir="SW" symbol="14" symbolB="38"/>
+        <wind-gusts value="24" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="64"/>
+        <pressure value="1018" unit="mb"/>
+        <clouds value="3%"/>
+        <snowline value="3500" unit="m"/>
+        <windchill value="14" unit="°C"/>
+      </hour>
+      <hour value="06:00">
+        <temp value="12" unit="°C"/>
+        <symbol value="1" desc="Ясная погода" value2="1" desc2="Ясная погода"/>
+        <wind value="11" unit="km/h" dir="S" symbol="13" symbolB="37"/>
+        <wind-gusts value="23" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="70"/>
+        <pressure value="1018" unit="mb"/>
+        <clouds value="0%"/>
+        <snowline value="3400" unit="m"/>
+        <windchill value="12" unit="°C"/>
+      </hour>
+      <hour value="09:00">
+        <temp value="17" unit="°C"/>
+        <symbol value="1" desc="Ясная погода" value2="1" desc2="Ясная погода"/>
+        <wind value="16" unit="km/h" dir="S" symbol="13" symbolB="45"/>
+        <wind-gusts value="31" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="55"/>
+        <pressure value="1018" unit="mb"/>
+        <clouds value="0%"/>
+        <snowline value="3600" unit="m"/>
+        <windchill value="17" unit="°C"/>
+      </hour>
+      <hour value="12:00">
+        <temp value="21" unit="°C"/>
+        <symbol value="1" desc="Ясная погода" value2="1" desc2="Ясная погода"/>
+        <wind value="19" unit="km/h" dir="S" symbol="13" symbolB="53"/>
+        <wind-gusts value="39" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="44"/>
+        <pressure value="1017" unit="mb"/>
+        <clouds value="0%"/>
+        <snowline value="3600" unit="m"/>
+        <windchill value="21" unit="°C"/>
+      </hour>
+      <hour value="15:00">
+        <temp value="24" unit="°C"/>
+        <symbol value="1" desc="Ясная погода" value2="1" desc2="Ясная погода"/>
+        <wind value="19" unit="km/h" dir="S" symbol="13" symbolB="53"/>
+        <wind-gusts value="39" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="36"/>
+        <pressure value="1015" unit="mb"/>
+        <clouds value="0%"/>
+        <snowline value="3600" unit="m"/>
+        <windchill value="25" unit="°C"/>
+      </hour>
+      <hour value="18:00">
+        <temp value="23" unit="°C"/>
+        <symbol value="1" desc="Ясная погода" value2="1" desc2="Ясная погода"/>
+        <wind value="15" unit="km/h" dir="S" symbol="13" symbolB="45"/>
+        <wind-gusts value="38" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="38"/>
+        <pressure value="1014" unit="mb"/>
+        <clouds value="0%"/>
+        <snowline value="3600" unit="m"/>
+        <windchill value="25" unit="°C"/>
+      </hour>
+      <hour value="21:00">
+        <temp value="17" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="11" unit="km/h" dir="S" symbol="13" symbolB="37"/>
+        <wind-gusts value="28" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="52"/>
+        <pressure value="1014" unit="mb"/>
+        <clouds value="23%"/>
+        <snowline value="3700" unit="m"/>
+        <windchill value="17" unit="°C"/>
+      </hour>
+      <hour value="24:00">
+        <temp value="15" unit="°C"/>
+        <symbol value="2" desc="Переменная облачность" value2="2" desc2="Переменная облачность"/>
+        <wind value="12" unit="km/h" dir="S" symbol="13" symbolB="37"/>
+        <wind-gusts value="22" unit="km/h"/>
+        <rain value="0" unit="mm"/>
+        <humidity value="59"/>
+        <pressure value="1015" unit="mb"/>
+        <clouds value="29%"/>
+        <snowline value="3600" unit="m"/>
+        <windchill value="15" unit="°C"/>
+      </hour>
+    </day>
+  </location>
+</report>
